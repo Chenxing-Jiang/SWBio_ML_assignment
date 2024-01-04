@@ -5,7 +5,7 @@
 And finally we plot the dataset on a graph and obtain where the unknown proteins localize in the cells.
 
 ## "data_teacher_human.xlsx" file
-- This is a dataset of proteins whose subcellular information have alreday been reported before. The file contains the name of the proteins, subcellular location of proteins, isoforms etc. We only use "name", "TMD", "GRAVY" and "Tail charge".
+- This is a dataset of proteins whose subcellular information have already been reported before. The file contains the name of the proteins, subcellular location of proteins, isoforms etc. We only use "name", "TMD", "GRAVY" and "Tail charge".
 - The data is obtained from Costello et al., JCS, 2017 (https://journals.biologists.com/jcs/article/130/9/1675/56732/Predicting-the-targeting-of-tail-anchored-proteins).
 - "data_teacher_human.xlsx" should be included in the location as script.py.
 
