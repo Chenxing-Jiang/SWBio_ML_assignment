@@ -1,5 +1,3 @@
-# This README.md file describes what is in the repository
-
 ## ML assignment.ipynb file
 - This is a notebook of the coding that I conducted.
 - We firstly import "zebrafish_TA_protein_prediction.xlsx" (I will call it "unknown protein dataset")and plot the datapoints based on the GRAVY (hydrophobicity) and tail charge. We want to know where those proteins in unknown protein dataset localize in the cell. 
